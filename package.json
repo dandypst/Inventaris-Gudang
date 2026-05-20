@@ -1,0 +1,28 @@
+{
+  "name": "gudang-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "firebase": "^10.12.2",
+    "firebase-admin": "^12.2.0",
+    "googleapis": "^140.0.1",
+    "xlsx": "^0.18.5",
+    "date-fns": "^3.6.0",
+    "react-hot-toast": "^2.4.1",
+    "recharts": "^2.12.7",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.8.2"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3"
+  }
+}
